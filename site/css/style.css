@@ -1,0 +1,10 @@
+body{
+    background-color: aliceblue;
+}
+td{
+    border: solid 3px chocolate;
+    margin-bottom: 10px;
+}
+.net{
+    border:none;
+}
